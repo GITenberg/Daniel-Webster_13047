@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/728
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
 description: A biography of the Senator surveying his life and achievements.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13047#Daniel-Webster
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
 identifiers:
