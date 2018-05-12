@@ -1,0 +1,29 @@
+_repo: Daniel-Webster_13047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: A biography of the Senator surveying his life and achievements.
+gutenberg_issued: '2004-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Webster, Daniel, 1782-1852'
+- !lcc 'E300'
+- !lcsh 'Legislators -- United States -- Biography'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+title: Daniel Webster
+url: http://www.gutenberg.org/ebooks/13047
